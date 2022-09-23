@@ -36,7 +36,7 @@
             android:hardwareAccelerated="false"
             android:launchMode="singleTask"
             android:resizeableActivity="false"
-            android:screenOrientation="fullSensor"
+            android:screenOrientation="portrait"
             android:theme="@style/UnityThemeSelector" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -69,7 +69,7 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="5d1195c3-bfba-466c-a11d-b78ce26f0e91" />
+            android:value="19aafe3a-5c5e-434d-93f4-d0dc272be889" />
         <meta-data
             android:name="unityplayer.SkipPermissionsDialog"
             android:value="true" />

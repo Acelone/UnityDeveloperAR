@@ -28,15 +28,15 @@ ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\g
 activity#com.unity3d.player.UnityPlayerActivity
 ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:111-149
+		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:111-147
 	android:launchMode
-		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:150-181
+		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:148-179
 	android:hardwareAccelerated
-		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:399-434
+		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:397-432
 	android:resizeableActivity
-		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:364-398
+		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:362-396
 	android:configChanges
-		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:182-363
+		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:180-361
 	android:theme
 		ADDED from C:\Users\user\Documents\GitHub\UnityDeveloperARTest\My project\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:69-110
 	android:name

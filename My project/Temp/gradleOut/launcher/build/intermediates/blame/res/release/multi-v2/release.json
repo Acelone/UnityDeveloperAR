@@ -375,6 +375,28 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\values-he_values-he.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\13024ad82fd021811f9c359705fedf4a\\res\\values-he\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,283,403,524",
+                        "endColumns": "45,46,119,120,93",
+                        "endOffsets": "235,282,402,523,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,156,280,405",
+                        "endColumns": "49,50,123,124,97",
+                        "endOffsets": "100,151,275,400,498"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\values-v28_values-v28.arsc.flat",
             "map": [
                 {
@@ -399,57 +421,30 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\values-he_values-he.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\13024ad82fd021811f9c359705fedf4a\\res\\values-he\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,236,283,403,524",
-                        "endColumns": "45,46,119,120,93",
-                        "endOffsets": "235,282,402,523,617"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,105,156,280,405",
-                        "endColumns": "49,50,123,124,97",
-                        "endOffsets": "100,151,275,400,498"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
                     },
                     "to": {
                         "startLines": "10,12,15",
                         "startColumns": "4,4,4",
-                        "startOffsets": "663,763,901",
+                        "startOffsets": "672,772,910",
                         "endLines": "11,14,18",
                         "endColumns": "8,8,8",
-                        "endOffsets": "758,896,1123"
+                        "endOffsets": "767,905,1132"
                     }
                 },
                 {
                     "source": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\ids.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "2",
@@ -462,11 +457,9 @@
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\13024ad82fd021811f9c359705fedf4a\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "161,208,259,381,503",
-                        "endColumns": "46,50,121,121,83",
-                        "endOffsets": "207,258,380,502,586"
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "3,4,5,6,7",
@@ -479,18 +472,18 @@
                 {
                     "source": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,102",
-                        "endColumns": "45,65",
-                        "endOffsets": "98,165"
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "54,-1",
+                        "endOffsets": "107,-1"
                     },
                     "to": {
                         "startLines": "8,9",
                         "startColumns": "4,4",
-                        "startOffsets": "547,595",
-                        "endColumns": "47,67",
-                        "endOffsets": "590,658"
+                        "startOffsets": "547,604",
+                        "endColumns": "56,67",
+                        "endOffsets": "599,667"
                     }
                 }
             ]
@@ -716,28 +709,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\values-sq_values-sq.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\13024ad82fd021811f9c359705fedf4a\\res\\values-sq\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,236,285,415,546",
-                        "endColumns": "45,48,129,130,93",
-                        "endOffsets": "235,284,414,545,639"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,105,158,292,427",
-                        "endColumns": "49,52,133,134,97",
-                        "endOffsets": "100,153,287,422,520"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\values-b+es+419_values-b+es+419.arsc.flat",
             "map": [
                 {
@@ -755,6 +726,28 @@
                         "startOffsets": "55,108,164,292,428",
                         "endColumns": "52,55,127,135,92",
                         "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\13024ad82fd021811f9c359705fedf4a\\res\\values-sq\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,285,415,546",
+                        "endColumns": "45,48,129,130,93",
+                        "endOffsets": "235,284,414,545,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,292,427",
+                        "endColumns": "49,52,133,134,97",
+                        "endOffsets": "100,153,287,422,520"
                     }
                 }
             ]

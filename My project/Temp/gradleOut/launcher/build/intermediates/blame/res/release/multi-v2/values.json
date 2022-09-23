@@ -6,30 +6,25 @@
                 {
                     "source": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
                     },
                     "to": {
                         "startLines": "10,12,15",
                         "startColumns": "4,4,4",
-                        "startOffsets": "663,763,901",
+                        "startOffsets": "672,772,910",
                         "endLines": "11,14,18",
                         "endColumns": "8,8,8",
-                        "endOffsets": "758,896,1123"
+                        "endOffsets": "767,905,1132"
                     }
                 },
                 {
                     "source": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\ids.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "2",
@@ -42,11 +37,9 @@
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\13024ad82fd021811f9c359705fedf4a\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "161,208,259,381,503",
-                        "endColumns": "46,50,121,121,83",
-                        "endOffsets": "207,258,380,502,586"
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "3,4,5,6,7",
@@ -59,18 +52,18 @@
                 {
                     "source": "C:\\Users\\user\\Documents\\GitHub\\UnityDeveloperARTest\\My project\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,102",
-                        "endColumns": "45,65",
-                        "endOffsets": "98,165"
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "54,-1",
+                        "endOffsets": "107,-1"
                     },
                     "to": {
                         "startLines": "8,9",
                         "startColumns": "4,4",
-                        "startOffsets": "547,595",
-                        "endColumns": "47,67",
-                        "endOffsets": "590,658"
+                        "startOffsets": "547,604",
+                        "endColumns": "56,67",
+                        "endOffsets": "599,667"
                     }
                 }
             ]
