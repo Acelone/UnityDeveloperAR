@@ -17,6 +17,7 @@ public class GameControl : MonoBehaviour
     PlayerControl playerCon;
     EnergyBar playerBar, enemyBar;
     Camera _camera;
+    float desiredHalfHeight;
     
 
     // Start is called before the first frame update
@@ -42,11 +43,14 @@ public class GameControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float unitsPerPixel = sceneWidth / Screen.width;
+        if (Application.platform == RuntimePlatform.Android)
+        {
+            float unitsPerPixel = sceneWidth / Screen.width;
 
-        float desiredHalfHeight = 0.5f * unitsPerPixel * Screen.height;
-
-        _camera.orthographicSize = desiredHalfHeight;
+            desiredHalfHeight = 0.5f * unitsPerPixel * Screen.height;
+             _camera.orthographicSize = desiredHalfHeight;
+        }
+        
         timer-=Time.deltaTime; 
         textTimer.text=timer.ToString("F0");
         

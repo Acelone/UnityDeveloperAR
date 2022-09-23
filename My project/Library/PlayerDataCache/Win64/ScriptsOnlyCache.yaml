@@ -1,7 +1,5 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp-Editor.dll:
-    - ReadmeEditor
     Assembly-CSharp.dll:
     - ARMode
     - BallControl
@@ -10,7 +8,6 @@ ScriptsOnlyBuild:
     - MazeGenerator
     - MazeNode
     - PlayerControl
-    - Readme
     - SoldierScript
     - mainMenu
     NavMeshComponents.dll:
