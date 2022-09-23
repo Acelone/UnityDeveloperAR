@@ -9,6 +9,11 @@ TagManager:
   - Ball
   - playerGoal
   - enemyGoal
+  - Enemy
+  - playerFence
+  - enemyFence
+  - Systems
+  - Maze
   layers:
   - Default
   - TransparentFX
